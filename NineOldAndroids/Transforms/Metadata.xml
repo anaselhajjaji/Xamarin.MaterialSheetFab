@@ -1,0 +1,10 @@
+﻿<metadata>
+  <attr path="/api/package[@name='com.nineoldandroids.animation']" name="managedName">Xamarin.NineOldAndroids.Animations</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.util']" name="managedName">Xamarin.NineOldAndroids.Utils</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.view']" name="managedName">Xamarin.NineOldAndroids.Views</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.view.animation']" name="managedName">Xamarin.NineOldAndroids.Views.Animations</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='AnimatorSet']/method[@name='setDuration']" name="managedReturn">Xamarin.NineOldAndroids.Animations.Animator</attr>
+  <attr path="/api/package[@name='com.nineoldandroids.animation']/class[@name='ValueAnimator']/method[@name='setDuration']" name="managedReturn">Xamarin.NineOldAndroids.Animations.Animator</attr>
+  <remove-node path="/api/package[@name='com.nineoldandroids.animation']/class[@name='PropertyValuesHolder.FloatPropertyValuesHolder']" />
+  <remove-node path="/api/package[@name='com.nineoldandroids.animation']/class[@name='PropertyValuesHolder.IntPropertyValuesHolder']" />
+</metadata>
