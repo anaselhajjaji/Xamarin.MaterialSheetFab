@@ -4,7 +4,8 @@ Xamarin Binding to the Android native library (V 1.2.1): https://github.com/gowo
 ## Sample App
 [![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=anaware.samples.materialsheetfab)
 
-![Screenshot 1](https://raw.githubusercontent.com/anaselhajjaji/Xamarin.MaterialSheetFab/master/Screenshots/screen1.png "Screenshot 1")![Screenshot 2](https://raw.githubusercontent.com/anaselhajjaji/Xamarin.MaterialSheetFab/master/Screenshots/screen2.png "Screenshot 2")
+![Screenshot 1](https://raw.githubusercontent.com/anaselhajjaji/Xamarin.MaterialSheetFab/master/Screenshots/screen2.png "Screenshot 1")
+![Screenshot 2](https://raw.githubusercontent.com/anaselhajjaji/Xamarin.MaterialSheetFab/master/Screenshots/screen1.png "Screenshot 2")
 
 ## License
 ```
